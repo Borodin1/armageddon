@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Inter:ital,opsz@1,14..32&family=Merriweather:ital@0;1&family=Passion+One:wght@400;700;900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
+::root {
+  --main-bg-color: rgb(0, 0, 0);
+}
+
+h1 {
+  font-family: Helvetica, sans-serif;
+  color: rgb(255, 255, 255);
+  font-size: 28px;
+  font-weight: 700;
+}
+h2 {
+  color: rgb(255, 255, 255);
+  font-family: Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+p {
+  font-family: "Passion One", sans-serif;
+  font-size: 32px;
+  color: rgb(248, 102, 0);
+  font-weight: 400;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+  }
