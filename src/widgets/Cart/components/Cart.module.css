@@ -1,0 +1,22 @@
+.cart {
+  background-color: var(--cart-bg-color);
+  border-radius: 24px;
+  width: 150px;
+  height: 161px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.cart-title {
+    display: flex;
+    flex-direction: column;
+    gap: 10;
+}
+
+
+
+
+
