@@ -1,0 +1,22 @@
+.main-content{
+    display: flex;
+    margin-top: 40px;
+}
+
+.earth-decor{
+    background-image: url('src/shared/assets/images/planeta_zemlia_kosmos_167499_2560x1600 1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left -136px center;
+    width: 536px;
+    height: 620px;
+}
+
+.content{
+    width: 402px;
+}
+
+.content h1{
+    word-wrap: break-word;
+    width: 380px;
+}

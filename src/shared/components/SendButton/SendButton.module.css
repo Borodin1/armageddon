@@ -1,0 +1,14 @@
+.send-button {
+  width: 118px;
+  height: 48px;
+
+  background-color: var(--send-button-bg-color);
+  border-radius: 40px;
+
+  cursor: pointer;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
